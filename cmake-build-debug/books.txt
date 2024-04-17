@@ -1,0 +1,42 @@
+Book Name: Ion
+Author: Liviu Rebreanu
+Quantity: 20
+
+Book Name: DaVinci Code
+Author: Dan Brown
+Quantity: 5
+
+Book Name: The Great Gatsby
+Author: F. Scott Fitzgerald
+Quantity: 4
+
+Book Name: Anna Karenina
+Author: Lev Tolstoi
+Quantity: 9
+
+Book Name: A song of Ice and Fire
+Author: George R. R. Martin
+Quantity: 17
+
+Book Name: A Clash of Kings
+Author: George R. R. Martin
+Quantity: 11
+
+Book Name: Morometii
+Author: Marin Preda
+Quantity: 18
+
+Book Name: Amintiri din copilarie
+Author: Ion Creanga
+Quantity: 1
+
+
+Book Name: Dune
+Author: Frank Herbert
+Quantity: 7
+
+
+Book Name:  Dune 2
+Author: Frank Herbert
+Quantity: 10
+
